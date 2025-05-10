@@ -1,0 +1,5 @@
+azure-functions>=1.14.0
+markitdown[all]>=0.1.0
+WeasyPrint>=55.0
+pandas>=1.3.0
+openpyxl>=3.0.10
